@@ -11,15 +11,12 @@ body{
 
 }
 .box{
-    height: 40px;
-    width: 200px;
-    background-color: #931;
+    height: 100px;
+    width: 100%;
+    background-color: #0008;
     position: fixed;
-    bottom: 0px;
-    right: 0px;
-    left: 0;
     top: 0;
-    margin: auto;
+    color: aliceblue;
 }
 .box-fixed{
     height: 80px;
